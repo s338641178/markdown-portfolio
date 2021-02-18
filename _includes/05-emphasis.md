@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Working on Github is **a lot of fun** and is very _ineteresting_ to do.
